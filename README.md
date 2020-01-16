@@ -1,4 +1,10 @@
-# SakuraBot
+# SakuraBotBase (old version)
+
+Sakura is a very powerful telegram bot built to do many things. It can
+
+- Greet new users
+- Ban people, warn people and mute people from groups
+- Fetch Dota 2 match information of completed videogames and generate match scorecards using the OpenDota API
 
 ## Steps to Run
 
